@@ -1,0 +1,1 @@
+var json_PlantadeTatamiento_4 = {"type":"FeatureCollection","name":"PlantadeTatamiento_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Ptar":"Planta de aguas residuales San Miguelito"},"geometry":{"type":"Point","coordinates":[-86.894877324910738,20.537354567489629]}}]}
